@@ -1,6 +1,7 @@
 # Artificial-Intelligence
 #Bilkent University CS 461 - Artificial Intelligence course works. 
-See course:https://stars.bilkent.edu.tr/syllabus/view/CS/461/
+
+#See course:https://stars.bilkent.edu.tr/syllabus/view/CS/461/
 
 #homework1 Grade : 10/10
 
